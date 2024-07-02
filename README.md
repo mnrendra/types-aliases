@@ -36,8 +36,8 @@ console.log('aliases:', aliases)
 ## Types
 ```typescript
 import type {
-  Aliases,
-  Alias
+  Aliases, // A TypeScript type to validate the input of `@mnrendra/alias-resolver` or the output of `@mnrendra/tsconfig-alias-parser`.
+  Alias // A TypeScript type to validate an alias for input of `@mnrendra/alias-resolver` or output of `@mnrendra/tsconfig-alias-parser`.
 } from '@mnrendra/types-aliases'
 ```
 
