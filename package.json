@@ -1,6 +1,6 @@
 {
   "name": "@mnrendra/types-aliases",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "A TypeScript type to validate the input of @mnrendra/alias-resolver or the output of @mnrendra/tsconfig-alias-parser.",
   "private": false,
   "main": "dist/index.js",
