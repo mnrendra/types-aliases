@@ -1,5 +1,10 @@
-import type HelloWorld from './HelloWorld'
+import type { Alias } from './types'
+
+import type Aliases from './Aliases'
 
 export type {
-  HelloWorld
+  Aliases,
+  Alias
 }
+
+export default Aliases
